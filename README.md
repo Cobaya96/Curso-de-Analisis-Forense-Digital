@@ -101,6 +101,6 @@ Este repositorio está abierto para la colaboración académica y el intercambio
 
 ## 🏫 Créditos
 
-* Curso de **Análisis Forense Digital** - **INCIBE** / **Universidad de León**
-* Material y ejercicios creados por: *[Tu Nombre]*
+* Curso de **Análisis Forense Digital** - **INCIBE** 
+* Material creados por: *cobaya96*
 
