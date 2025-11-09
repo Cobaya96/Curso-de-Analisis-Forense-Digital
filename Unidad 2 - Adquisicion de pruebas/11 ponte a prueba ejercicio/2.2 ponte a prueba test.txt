@@ -1,0 +1,106 @@
+La gestión de los incidentes de seguridad no está normalizada por ningún organismo
+
+Pregunta 1Respuesta
+Verdadero
+Falso 
+Retroalimentación
+La respuesta correcta es 'Falso'
+Pregunta 2
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+El parcheado de sistemas se realizará en la fase de gestión del incidente:
+
+Pregunta 2Respuesta
+
+a.
+Detección y reporte
+
+
+b.
+Respuesta al incidente
+
+
+c.
+Planificación y preparación
+
+Retroalimentación
+Respuesta correcta
+La respuesta correcta es:
+Respuesta al incidente
+
+Pregunta 3
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+La agencia europea que vela por la ciberseguridad es
+
+Pregunta 3Respuesta
+
+a.
+ISO
+
+
+b.
+ENISA
+
+
+c.
+INCIBE
+
+Retroalimentación
+Respuesta correcta
+La respuesta correcta es:
+ENISA
+
+Pregunta 4
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+De entre las siguientes afirmaciones en relación a las evidencias, señala la correcta
+
+Pregunta 4Respuesta
+
+a.
+Es necesario disponer de, al menos, una copia adicional de los datos.
+
+
+b.
+No es necesario detallar el proceso siempre que calculemos hashes de los datos adquiridos.
+
+
+c.
+Es necesario utilizar herramientas de pago bien conocidas.
+
+Retroalimentación
+Respuesta correcta
+La respuesta correcta es:
+Es necesario disponer de, al menos, una copia adicional de los datos.
+
+Pregunta 5
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+El equipo encargado de gestionar los incidentes de seguridad se denomina:
+
+Pregunta 5Respuesta
+
+a.
+CSIRT
+
+
+b.
+CERT
+
+
+c.
+Ambas son correctas.
+
+Retroalimentación
+Respuesta correcta
+La respuesta correcta es:
+Ambas son correctas.
