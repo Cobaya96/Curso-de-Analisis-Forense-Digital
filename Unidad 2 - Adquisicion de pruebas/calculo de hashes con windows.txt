@@ -1,0 +1,63 @@
+PS C:\Users\TUF> cd Y:\
+PS Y:\> ls
+
+
+    Directorio: Y:\
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        19/01/2023     22:43                CINE
+d-----        27/05/2024     18:59                tarjeta sd sansung
+d-----        02/06/2025     11:51                $RECYCLE.BIN
+d-----        13/12/2021     13:41                8 COMPAÑIA
+d-----        01/08/2025     14:13                8K
+d-----        21/10/2024      0:51                APLICACIONES
+d-----        04/10/2024     23:54                AYUDAS
+d-----        02/06/2021     19:14                compartir pantalla
+                                                  Android
+d-----        16/10/2022      0:36                DATOS DEL MOVIL
+d-----        02/06/2025     22:31                ESTUDIOS
+d-----        14/01/2025     19:19                FOTOS
+d-----        08/11/2022     20:09                ING PAOLA DOCUMENTOS
+d-----        09/11/2024      1:28                Israel Marfetan aldas
+d-----        25/09/2024     20:56                NEGOCIOS
+d-----        01/03/2025     20:51                NIÑOS
+d-----        14/01/2025     20:34                PAOLA PEREZ
+d-----        15/09/2025     22:58                raspberry pi 5
+d-----        09/07/2025     22:19                System Volume Information
+d-----        07/10/2024     19:57                Trabajo
+d-----        03/10/2024     21:20                YouTube
+d-----        04/12/2024      9:53                zara radio
+-a----        23/09/2025     21:11         140838 ANEXO IV.pdf
+-a----        23/09/2025     17:39              6 filehash.txt
+
+
+PS Y:\> dir .\filehash.txt
+
+
+    Directorio: Y:\
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        23/09/2025     17:39              6 filehash.txt
+
+
+PS Y:\> certutil.exe -hashfile .\filehash.txt md5
+MD5 hash de .\filehash.txt:
+5bc8c567a89112d5f408a8af4f17970d
+CertUtil: -hashfile comando completado correctamente.
+PS Y:\> certutil.exe -hashfile .\filehash.txt sha1
+SHA1 hash de .\filehash.txt:
+d96a61ac59f3c3def1a1e0596ed5a7d0eef60d3b
+CertUtil: -hashfile comando completado correctamente.
+PS Y:\> certutil.exe -hashfile .\filehash.txt sha256
+SHA256 hash de .\filehash.txt:
+ac3f091ca34109c5427afb46cf83b296e2004ca9e55d3b0da8aa7434f47c69ed
+CertUtil: -hashfile comando completado correctamente.
+PS Y:\> certutil.exe -hashfile .\filehash.txt sha512
+SHA512 hash de .\filehash.txt:
+0ba7c1f753b174aa04d3aea086c8fd27a99fc16da1705bbde09c1cb3cba565c1a1cdb93afb06d7b147eb0203440a0bfcf2f943834a2bc3f41059a8fbd44dba92
+CertUtil: -hashfile comando completado correctamente.
+PS Y:\>

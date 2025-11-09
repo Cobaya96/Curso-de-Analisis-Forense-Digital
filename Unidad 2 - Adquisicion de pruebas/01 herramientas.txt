@@ -1,0 +1,22 @@
+
+Ejemplos de evidencia recolectada y posibles herramientas o comandos
+Tipo de dato	Herramienta/comando
+Memoria RAM	Volatility, Belkasoft RAM Capturer, Dumpit, WinPMEM,...
+Procesos activos	Sysinternals Process Explorer, pslist, tasklist, ps,...
+Conexiones de red	Wireshark, TCPView, netstat, fiddler,...
+Usuarios conectados	who, net session, query user,...
+Actividad reciente	history, recentdocs, prefetch, registros o carpetas temporales
+Imagen de disco	FTK Imager, dd, ...
+
+
+
+Comparativa adquisición caliente y frío
+Característica	En caliente	En frío
+Estado del sistema	Encendido	Apagado
+Tipo de datos recolectados	Volátiles	Persistentes
+Riesgo de alteración	Alto	Bajo
+Valor legal	Admisible si está bien documentado	Más robusto y fiable
+Requiere experiencia	Alta	Media
+Uso típico	Incidentes activos, análisis de malware	Análisis post mortem, evidencia incautada
+
+

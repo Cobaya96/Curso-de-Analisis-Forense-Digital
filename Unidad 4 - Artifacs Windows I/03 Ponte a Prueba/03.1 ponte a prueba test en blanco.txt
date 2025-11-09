@@ -1,0 +1,36 @@
+pregunta 1
+Partiendo de la información de la carpeta EvidenciasWindows, indica qué instalador ejecutó Usuario UsuarioMalo el 16/9/2020 a las 11:20:48 (UTC)
+
+
+
+
+
+
+pregunta 2
+Partiendo de la información de la carpeta EvidenciasWindows, indica las horas de corrección horaria que tenía la máquina adquirida respecto a UTC, con signo.
+
+
+
+
+
+pregunta 3
+Partiendo de la información de la carpeta EvidenciasWindows, indica los grupos a los que pertenece el usuario UsuarioMalo, si hay más de uno sepáralos usando comas.
+
+
+
+
+pregunta 4
+Partiendo de la información de la carpeta EvidenciasWindows, indica la dirección IP de la máquina en la interface  “Local Area Connection 3”.
+
+
+
+
+
+pregunta 5
+Partiendo de la información de la carpeta EvidenciasWindows, indica la fecha en la se arrancó por última vez el sistema operativo. Sigue el formato dd/mm/yyyy
+
+
+
+
+
+

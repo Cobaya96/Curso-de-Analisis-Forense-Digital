@@ -1,0 +1,21 @@
+admin@pi:/media/admin/TOSHIBA MARFETAN2 $ md5sum filehash.txt
+5bc8c567a89112d5f408a8af4f17970d  filehash.txt
+admin@pi:/media/admin/TOSHIBA MARFETAN2 $ sha1sum filehash.txt
+d96a61ac59f3c3def1a1e0596ed5a7d0eef60d3b  filehash.txt
+admin@pi:/media/admin/TOSHIBA MARFETAN2 $ sha256sum filehash.txt
+ac3f091ca34109c5427afb46cf83b296e2004ca9e55d3b0da8aa7434f47c69ed  filehash.txt
+admin@pi:/media/admin/TOSHIBA MARFETAN2 $ sha512sum filehash.txt
+0ba7c1f753b174aa04d3aea086c8fd27a99fc16da1705bbde09c1cb3cba565c1a1cdb93afb06d7b147eb0203440a0bfcf2f943834a2bc3f41059a8fbd44dba92  filehash.txt
+admin@pi:/media/admin/TOSHIBA MARFETAN2 $ openssl dgst -md5 filehash.txt
+MD5(filehash.txt)= 5bc8c567a89112d5f408a8af4f17970d
+admin@pi:/media/admin/TOSHIBA MARFETAN2 $ openssl dgst -sh1 filehash.txt
+dgst: Unknown option or message digest: sh1
+dgst: Use -help for summary.
+4080754EFF7F0000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:../crypto/evp/evp_fetch.c:386:Global default library context, Algorithm (sh1 : 0), Properties (<null>)
+admin@pi:/media/admin/TOSHIBA MARFETAN2 $ openssl dgst -sha1 filehash.txt
+SHA1(filehash.txt)= d96a61ac59f3c3def1a1e0596ed5a7d0eef60d3b
+admin@pi:/media/admin/TOSHIBA MARFETAN2 $ openssl dgst -sha256 filehash.txt
+SHA2-256(filehash.txt)= ac3f091ca34109c5427afb46cf83b296e2004ca9e55d3b0da8aa7434f47c69ed
+admin@pi:/media/admin/TOSHIBA MARFETAN2 $ openssl dgst -sha512 filehash.txt
+SHA2-512(filehash.txt)= 0ba7c1f753b174aa04d3aea086c8fd27a99fc16da1705bbde09c1cb3cba565c1a1cdb93afb06d7b147eb0203440a0bfcf2f943834a2bc3f41059a8fbd44dba92
+admin@pi:/media/admin/TOSHIBA MARFETAN2 $

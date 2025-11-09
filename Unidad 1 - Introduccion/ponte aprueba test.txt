@@ -1,0 +1,119 @@
+De entre las siguientes afirmaciones en relación a las evidencias, señala la correcta
+
+Pregunta 1Respuesta
+
+a.
+Disponer de, al menos, una copia de la información original, para repetir el proceso.
+
+
+b.
+Trabajaremos sobre el original para evitar perder tiempo con copias innecesarias.
+
+
+c.
+Primero adquirimos y después preservamos las evidencias
+
+Retroalimentación
+Respuesta correcta
+La respuesta correcta es:
+Disponer de, al menos, una copia de la información original, para repetir el proceso.
+
+Pregunta 2
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+En el marco de la respuesta a incidentes, usamos técnicas de forense digital en:
+
+Pregunta 2Respuesta
+
+a.
+Las fases de preparación y detección
+
+
+b.
+Las fases de Detección y respuesta
+
+
+c.
+Las fases de Detección y Evaluación.
+
+Retroalimentación
+Respuesta correcta
+La respuesta correcta es:
+Las fases de Detección y Evaluación.
+
+Pregunta 3
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+El objetivo del control de la cadena de custodia es:
+
+Pregunta 3Respuesta
+
+a.
+Identificar de forma unívoca la prueba.
+
+
+b.
+Garantizar la integridad de la prueba mediante la trazabilidad.
+
+
+c.
+Evitar injerencias de terceros en el proceso de investigación.
+
+Retroalimentación
+Respuesta correcta
+La respuesta correcta es:
+Garantizar la integridad de la prueba mediante la trazabilidad.
+
+Pregunta 4
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+En el campo de IR:
+
+Pregunta 4Respuesta
+
+a.
+Preferimos la adquisición parcial en caliente para el análisis inmediato.
+
+
+b.
+Preferimos la adquisición en frío, por ser más rápida.
+
+
+c.
+Siempre hacemos imágenes forenses completas, en frío o en caliente.
+
+Retroalimentación
+Respuesta correcta
+La respuesta correcta es:
+Preferimos la adquisición parcial en caliente para el análisis inmediato.
+
+Pregunta 5
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+La norma que rige las directrices para identificación, recopilación y almacenamiento de evidencias digitales es:
+
+Pregunta 5Respuesta
+
+a.
+RFC 3227
+
+
+b.
+NIST 8008
+
+
+c.
+ISO 27002
+
+Retroalimentación
+Respuesta correcta
+La respuesta correcta es:
+RFC 3227

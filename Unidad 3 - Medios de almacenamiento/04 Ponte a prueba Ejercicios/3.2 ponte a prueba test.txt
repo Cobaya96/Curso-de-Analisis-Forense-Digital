@@ -1,0 +1,51 @@
+
+Extrae la mbr de la evidencia hhdd.dd a un fichero e indica el hash sha1 del mismo.
+
+Respuesta: Pregunta 1
+6291f3a4cc8f10ee12de870775841b0d91489045
+Retroalimentación
+La respuesta correcta es: 6291f3a4cc8f10ee12de870775841b0d91489045
+Pregunta 2
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+¿Cuál es el último bloque de la imagen del disco anterior?
+
+Respuesta: Pregunta 2
+201599
+Retroalimentación
+La respuesta correcta es: 201599
+Pregunta 3
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+¿Cómo se llama el fichero con extensión txt en el directorio raíz de la partición en el offset 63?
+
+Respuesta: Pregunta 3
+short.txt
+Retroalimentación
+La respuesta correcta es: short.txt
+Pregunta 4
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+¿Cuál es el OEM name de la partición en el offset 63?
+
+Respuesta: Pregunta 4
+MSWIN4.1
+Retroalimentación
+La respuesta correcta es: MSWIN4.1
+Pregunta 5
+Correcta
+Se puntúa 2,00 sobre 2,00
+Marcar pregunta
+Enunciado de la pregunta
+Recupera ficheros de la imagen Evidence.dd ¿Cuántos ficheros jpg se recuperan?
+
+Respuesta: Pregunta 5
+7
+Retroalimentación
+La respuesta correcta es: 7

@@ -1,0 +1,19 @@
+
+TheSleuthKit
+Aprende a utilizar la herramienta TheSleuthKit
+
+
+Carving
+Aprende a realizar carving usando photorec
+
+
+Autopsy
+Aprende a utilizar la herramienta autopsy
+
+
+Artefacto_Logfile_USNJournal
+Aprende a trabajar el artefacto Logfile y USnJournal de Windows
+
+
+Artefacto_MFT
+Aprende a trabajar el artefacto MFT de Windows

@@ -1,0 +1,9 @@
+después de toda esta documentación y herramientas procede a usar en el Sistema Operativo CAINE que encontramos en la mayoría de aplicaciones relacionados al Análisis Forense Digital:
+
+Guymager
+RAMCapture
+Lime
+Calculo de hashes tanto en CAINE como en Windows
+
+
+después nos realiza una carpeta de evidencia para aplicar lo aprendido.

@@ -1,0 +1,63 @@
+pregunta 1
+Por tamaño de clúster entendemos
+a.
+Es lo mismo que el tamaño del sector.
+b.
+La mínima porción de información que podemos referenciar desde el sistema de ficheros.
+c.
+La mínima porción de información a la que es posible acceder por el hardware del disco.
+
+
+
+
+pregunta 2
+A nivel forense, una peculiaridad de los discos SSD es
+a.
+Que no es posible hacer una imagen bit a bit.
+b.
+Que el simple hecho de suministrar corriente modifica los datos y por lo tanto los hashes
+c.
+Que permite recuperar fácilmente los ficheros borrados.
+
+
+
+
+
+pregunta 3
+La información del particionado de un disco se encuentra en
+a.
+La BIOS del sistema
+b.
+Ninguna es correcta
+c.
+La MBR, los primeros 512 Bytes del disco y en los primeros 16 KB, en el sistema GPT.
+
+
+
+pregunta 4
+La MFT es
+a.
+La tabla que almacena las particiones de un sistema NTFS.
+b.
+La tabla que guarda el contenido de un sistema de ficheros FAT.
+c.
+La tabla que guarda el contenido de un sistema de ficheros NTFS.
+
+
+
+
+
+pregunta 5
+El proceso de “craving” se utiliza para:
+a.
+Recuperar ficheros eliminados o dañados comprobando los bloques e identificando “magic numbers”.
+b.
+Al proceso de recuperar ficheros borrados desde la papelera.
+c.
+Recuperar bases de datos.
+
+
+
+
+
+

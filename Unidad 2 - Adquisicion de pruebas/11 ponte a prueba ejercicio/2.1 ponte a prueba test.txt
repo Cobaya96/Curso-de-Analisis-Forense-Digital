@@ -1,0 +1,42 @@
+ 1
+Correcta
+Se puntúa 5,00 sobre 5,00
+Marcar pregunta
+Enunciado de la pregunta
+Calcula el hash utilizando el algoritmo MD5 del fichero filehash.txt contenido en la unidad
+
+Respuesta: Pregunta 1
+5bc8c567a89112d5f408a8af4f17970d
+Retroalimentación
+Bien hecho!
+
+Para calcular el hash MD5 de un fichero podemos utilizar en linux la instrucción:
+
+md5sum hashfile.txt
+
+En Windows:
+
+Get-FileHash .\filehash.txt -Algorithm MD5
+
+La respuesta correcta es: 5BC8C567A89112D5F408A8AF4F17970D
+Pregunta 2
+Correcta
+Se puntúa 5,00 sobre 5,00
+Marcar pregunta
+Enunciado de la pregunta
+Calcula el hash sha256 del fichero filehash.txt contenido en la unidad
+
+Respuesta: Pregunta 2
+ac3f091ca34109c5427afb46cf83b296e2004ca9e55d3b0da8aa7434f47c69ed
+Retroalimentación
+Bien hecho!
+
+Para obtener el hash sha256 de un fichero, podemos utiliza la instrucción:
+
+sha256sum hashfile.txt
+
+En linux o para windows:
+
+Get-FileHash .\filehash.txt -Algorithm SHA256
+
+La respuesta correcta es: AC3F091CA34109C5427AFB46CF83B296E2004CA9E55D3B0DA8AA7434F47C69ED
