@@ -1,119 +1,47 @@
+Pregunta 1
+
 La finalidad de la cadena de custodia es:
 
-Pregunta 1Respuesta
-
-a.
-Detallar los procesos realizados sobre la evidencia.
-
-
-b.
-Mantener la confidencialidad de la evidencia.
-
-
-c.
-Garantizar la integridad y trazabilidad de las evidencias a lo largo del proceso de análisis.
-
-Retroalimentación
-Respuesta correcta
-La respuesta correcta es:
-Garantizar la integridad y trazabilidad de las evidencias a lo largo del proceso de análisis.
+a. Detallar los procesos realizados sobre la evidencia.
+b. Mantener la confidencialidad de la evidencia.
+c. Garantizar la integridad y trazabilidad de las evidencias a lo largo del proceso de análisis.
 
 Pregunta 2
-Correcta
-Se puntúa 2,00 sobre 2,00
-Marcar pregunta
-Enunciado de la pregunta
+
 Las evidencias almacenadas en los registros del procesador y caché…
 
-Pregunta 2Respuesta
-
-a.
-Son persistentes y se obtiene en la copia física.
-
-
-b.
-No se pueden obtener debido a la alta volatilidad.
-
-
-c.
-Son relevantes y se obtienen por mecanismos de chip-off
-
-Retroalimentación
-Respuesta correcta
-La respuesta correcta es:
-No se pueden obtener debido a la alta volatilidad.
+a. Son persistentes y se obtiene en la copia física.
+b. No se pueden obtener debido a la alta volatilidad.
+c. Son relevantes y se obtienen por mecanismos de chip-off.
 
 Pregunta 3
-Correcta
-Se puntúa 2,00 sobre 2,00
-Marcar pregunta
-Enunciado de la pregunta
+
 Llamamos adquisición en caliente a:
 
-Pregunta 3Respuesta
-
-a.
-La que se realiza con el SO del sistema afectado encendido.
-
-
-b.
-Al volcado de RAM
-
-
-c.
-La que se realiza inmediatamente después de haber sucedido el incidente de seguridad.
-
-Retroalimentación
-Respuesta correcta
-La respuesta correcta es:
-La que se realiza con el SO del sistema afectado encendido.
+a. La que se realiza con el SO del sistema afectado encendido.
+b. Al volcado de RAM.
+c. La que se realiza inmediatamente después de haber sucedido el incidente de seguridad.
 
 Pregunta 4
-Correcta
-Se puntúa 2,00 sobre 2,00
-Marcar pregunta
-Enunciado de la pregunta
+
 Para recuperar ficheros borrados, es necesario:
 
-Pregunta 4Respuesta
-
-a.
-Una copia bit a bit del medio de almacenamiento.
-
-
-b.
-Una copia lógica del sistema de ficheros.
-
-
-c.
-Realizar la adquisición mediante una herramienta de backup.
-
-Retroalimentación
-Respuesta correcta
-La respuesta correcta es:
-Una copia bit a bit del medio de almacenamiento.
+a. Una copia bit a bit del medio de almacenamiento.
+b. Una copia lógica del sistema de ficheros.
+c. Realizar la adquisición mediante una herramienta de backup.
 
 Pregunta 5
-Correcta
-Se puntúa 2,00 sobre 2,00
-Marcar pregunta
-Enunciado de la pregunta
+
 Para montar una copia bit a bit, en modo forense, podemos utilizar:
 
-Pregunta 5Respuesta
+a. FTK imager Lite
+b. Autopsy
+c. El comando mount
 
-a.
-FTK imager Lite
+✅ Respuestas Correctas
 
-
-b.
-Autopsy
-
-
-c.
-El comando mount
-
-Retroalimentación
-Respuesta correcta
-La respuesta correcta es:
-FTK imager Lite
+Pregunta 1: Garantizar la integridad y trazabilidad de las evidencias a lo largo del proceso de análisis.
+Pregunta 2: No se pueden obtener debido a la alta volatilidad.
+Pregunta 3: La que se realiza con el SO del sistema afectado encendido.
+Pregunta 4: Una copia bit a bit del medio de almacenamiento.
+Pregunta 5: FTK imager Lite

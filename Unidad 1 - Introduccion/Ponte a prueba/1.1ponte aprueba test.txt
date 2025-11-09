@@ -1,0 +1,39 @@
+Pregunta 1
+
+De entre las siguientes afirmaciones en relación a las evidencias, señala la correcta:
+
+a. Disponer de, al menos, una copia de la información original, para repetir el proceso.
+b. Trabajaremos sobre el original para evitar perder tiempo con copias innecesarias.
+c. Primero adquirimos y después preservamos las evidencias.
+
+Pregunta 2
+
+En el marco de la respuesta a incidentes, usamos técnicas de forense digital en:
+
+a. Las fases de preparación y detección.
+b. Las fases de Detección y respuesta.
+c. Las fases de Detección y Evaluación.
+
+Pregunta 3
+
+El objetivo del control de la cadena de custodia es:
+
+a. Identificar de forma unívoca la prueba.
+b. Garantizar la integridad de la prueba mediante la trazabilidad.
+c. Evitar injerencias de terceros en el proceso de investigación.
+
+Pregunta 4
+
+En el campo de IR (Respuesta a Incidentes):
+
+a. Preferimos la adquisición parcial en caliente para el análisis inmediato.
+b. Preferimos la adquisición en frío, por ser más rápida.
+c. Siempre hacemos imágenes forenses completas, en frío o en caliente.
+
+Pregunta 5
+
+La norma que rige las directrices para identificación, recopilación y almacenamiento de evidencias digitales es:
+
+a. RFC 3227
+b. NIST 8008
+c. ISO 27002
