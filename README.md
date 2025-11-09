@@ -97,6 +97,14 @@ Este repositorio es **para fines educativos** y personales. Todo el contenido es
 Siéntete libre de **aportar sugerencias o mejoras** mediante pull requests o issues.
 Este repositorio está abierto para la colaboración académica y el intercambio de conocimiento.
 
+https://wise.com/pay/r/oJAllfW39LRScGA
+Donación al proyecto en EUR y si quieres en USD en el siguiente enlace:
+https://wise.com/pay/r/oJAllfW39LRScGA
+<img width="500" height="500" alt="payment-link-qr-code" src="https://github.com/user-attachments/assets/6a6f6177-93c9-40c8-982a-9ad56e67a0bd" />
+
+Te recomiendo hacerte una cuenta en este banco, muy util y 0 comisiones ENTRA CON MI INVITACION: 
+https://wise.com/invite/dic/josueisraelm1 Gracias por tu colaboración.
+
 ---
 
 ## 🏫 Créditos
