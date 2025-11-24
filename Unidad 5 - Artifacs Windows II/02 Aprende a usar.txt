@@ -1,0 +1,27 @@
+En esta unidad vamos a aprender a utilizar los siguiente:
+
+Análisis de logs de windows
+Aprende a analizar los logs de windows con Event Log Explorer
+
+
+Análisis del registro de eventos de seguridad
+Aprende a analizar el registro de seguridad de Windows con WinLogonView
+
+
+Wintriage
+Aprende a obtener evidencias usando Wintriage
+
+
+Artefacto prefetch
+Aprende a analizar el artefacto prefecth
+
+
+Sysinternals
+Aprende a utilizar process monitor y process explorer
+
+
+Volatility3
+Aprende a utilizar Volatility
+
+Artefactos de navegación
+Aprende a analizar los artefactos de navegación e historial de internet
