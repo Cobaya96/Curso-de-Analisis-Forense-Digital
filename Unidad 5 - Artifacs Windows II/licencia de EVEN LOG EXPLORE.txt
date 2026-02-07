@@ -1,0 +1,41 @@
+Hello,
+
+Thank you for your interest in our Event Log Explorer software.
+
+To download Event Log Explorer, please use this download link:
+https://eventlogxp.com/downloads/?s=1&u=h
+
+Here is a direct link to download Event Log Explorer Standard Edition installation package:
+https://eventlogxp.com/download/elex_setup.exe
+
+Event Log Explorer is free for home non-commercial use.
+Your registration key is
+----- BEGIN KEY -----
+0Ghlb+x3XHxYalE6Hcvv8Zi+0+pdL1WBnxZwdaPc
+Q8VGhn3nzD2Zoxas9P6n/eRY0ulH0KE1NXW9vgNT
+hT+X/lgSzn5kXaseo+iQ4vfFcV4GF7yZ+c9Hxv5e
+zJWxFbGNeHU8YsHcl82Xvr98A+BPM8H06xnZQN/B
+XuyANIPPr9DnnsEL+u2BqeVSbWCWHQq8LTI4Fxpl
+lSpe41BrzxxUxT7IsWAlQYLmoIpgJ1VTVYCxo+Zt
+hQByTl5d95v2EemfTCw==
+----- END KEY -----
+
+THIS LICENSE IS FOR PERSONAL NONCOMMERCIAL USE ONLY.
+
+Free version has some limitations which don t allow you to use this
+program in a corporate network (you can add only 3 network computers)
+or for forensic purposes. Do NOT get the Free version if you want to
+evaluate the program, use the trial version instead! If your trial
+period has expired, you can request the trial extension from us.
+
+To complete the registration process:
+- Select the registration key between BEGIN KEY and END KEY lines;
+- Copy the registration key into clipboard (Ctrl+C);
+- Open Event Log Explorer and select Help -> Enter Registration Key from the main menu;
+- Paste the clipboard content and press OK button;
+- Restart Event Log Explorer to apply the registration key;
+- Check License Info in the About box (Help->About).
+
+You received this message because someone (hopefully you) submitted request at
+Event Log Explorer download page ( https://www.eventlogxp.com/download.php )
+Please do not reply to this message. For assistance, use our contact page instead.

@@ -1,0 +1,11 @@
+en estesos dos apartados realizo un informe sobre los videos grabados del curso:
+
+
+
+
+Adquisición en linux
+Aprende a adquirir evidencias en Linux
+
+
+Logs en Linux
+Aprende a trabajar con journald de Linux
