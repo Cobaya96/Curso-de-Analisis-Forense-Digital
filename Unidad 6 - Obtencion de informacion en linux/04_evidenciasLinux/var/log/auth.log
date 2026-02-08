@@ -1,0 +1,517 @@
+Apr  3 00:17:01 mate CRON[119585]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 00:17:01 mate CRON[119585]: pam_unix(cron:session): session closed for user root
+Apr  3 01:17:01 mate CRON[119702]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 01:17:01 mate CRON[119702]: pam_unix(cron:session): session closed for user root
+Apr  3 01:45:01 mate CRON[119748]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 01:45:01 mate CRON[119748]: pam_unix(cron:session): session closed for user root
+Apr  3 02:17:01 mate CRON[119818]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 02:17:01 mate CRON[119818]: pam_unix(cron:session): session closed for user root
+Apr  3 03:10:01 mate CRON[119914]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 03:10:01 mate CRON[119914]: pam_unix(cron:session): session closed for user root
+Apr  3 03:17:01 mate CRON[119931]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 03:17:01 mate CRON[119931]: pam_unix(cron:session): session closed for user root
+Apr  3 03:30:01 mate CRON[119959]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 03:30:01 mate CRON[119959]: pam_unix(cron:session): session closed for user root
+Apr  3 04:17:01 mate CRON[120057]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 04:17:01 mate CRON[120057]: pam_unix(cron:session): session closed for user root
+Apr  3 05:17:01 mate CRON[120174]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 05:17:01 mate CRON[120174]: pam_unix(cron:session): session closed for user root
+Apr  3 06:17:01 mate CRON[120311]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 06:17:01 mate CRON[120311]: pam_unix(cron:session): session closed for user root
+Apr  3 06:25:01 mate CRON[120413]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 06:25:01 mate CRON[120413]: pam_unix(cron:session): session closed for user root
+Apr  3 06:47:01 mate CRON[120452]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 06:47:01 mate CRON[120452]: pam_unix(cron:session): session closed for user root
+Apr  3 07:17:01 mate CRON[120519]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 07:17:01 mate CRON[120519]: pam_unix(cron:session): session closed for user root
+Apr  3 07:30:01 mate CRON[120543]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 07:30:01 mate CRON[120543]: pam_unix(cron:session): session closed for user root
+Apr  3 08:17:01 mate CRON[120662]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 08:17:01 mate CRON[120662]: pam_unix(cron:session): session closed for user root
+Apr  3 08:30:01 mate CRON[120688]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 08:30:01 mate CRON[120688]: pam_unix(cron:session): session closed for user root
+Apr  3 09:17:01 mate CRON[120792]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 09:17:01 mate CRON[120792]: pam_unix(cron:session): session closed for user root
+Apr  3 09:30:01 mate CRON[120814]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 09:30:01 mate CRON[120814]: pam_unix(cron:session): session closed for user root
+Apr  3 10:17:01 mate CRON[120913]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 10:17:01 mate CRON[120913]: pam_unix(cron:session): session closed for user root
+Apr  3 10:30:01 mate CRON[120939]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 10:30:01 mate CRON[120939]: pam_unix(cron:session): session closed for user root
+Apr  3 11:17:01 mate CRON[121080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 11:17:01 mate CRON[121080]: pam_unix(cron:session): session closed for user root
+Apr  3 11:30:01 mate CRON[121104]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 11:30:01 mate CRON[121104]: pam_unix(cron:session): session closed for user root
+Apr  3 11:39:34 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  3 11:39:34 mate pkexec[121524]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  3 12:17:01 mate CRON[121615]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 12:17:01 mate CRON[121615]: pam_unix(cron:session): session closed for user root
+Apr  3 12:30:01 mate CRON[121641]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 12:30:01 mate CRON[121641]: pam_unix(cron:session): session closed for user root
+Apr  3 13:17:01 mate CRON[121742]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 13:17:01 mate CRON[121742]: pam_unix(cron:session): session closed for user root
+Apr  3 13:30:01 mate CRON[121767]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 13:30:01 mate CRON[121767]: pam_unix(cron:session): session closed for user root
+Apr  3 14:17:01 mate CRON[121862]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 14:17:01 mate CRON[121862]: pam_unix(cron:session): session closed for user root
+Apr  3 14:30:01 mate CRON[121885]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 14:30:01 mate CRON[121885]: pam_unix(cron:session): session closed for user root
+Apr  3 15:17:01 mate CRON[121979]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 15:17:01 mate CRON[121979]: pam_unix(cron:session): session closed for user root
+Apr  3 15:30:01 mate CRON[122003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 15:30:01 mate CRON[122003]: pam_unix(cron:session): session closed for user root
+Apr  3 16:17:01 mate CRON[122104]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 16:17:01 mate CRON[122104]: pam_unix(cron:session): session closed for user root
+Apr  3 16:30:01 mate CRON[122125]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 16:30:01 mate CRON[122125]: pam_unix(cron:session): session closed for user root
+Apr  3 17:17:01 mate CRON[122219]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 17:17:01 mate CRON[122219]: pam_unix(cron:session): session closed for user root
+Apr  3 17:30:01 mate CRON[122243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 17:30:01 mate CRON[122243]: pam_unix(cron:session): session closed for user root
+Apr  3 18:17:01 mate CRON[122365]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 18:17:01 mate CRON[122365]: pam_unix(cron:session): session closed for user root
+Apr  3 18:30:02 mate CRON[122389]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 18:30:02 mate CRON[122389]: pam_unix(cron:session): session closed for user root
+Apr  3 19:17:01 mate CRON[122498]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 19:17:01 mate CRON[122498]: pam_unix(cron:session): session closed for user root
+Apr  3 19:30:01 mate CRON[122523]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 19:30:01 mate CRON[122523]: pam_unix(cron:session): session closed for user root
+Apr  3 20:17:01 mate CRON[122688]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 20:17:01 mate CRON[122688]: pam_unix(cron:session): session closed for user root
+Apr  3 20:30:01 mate CRON[122716]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 20:30:01 mate CRON[122716]: pam_unix(cron:session): session closed for user root
+Apr  3 21:17:01 mate CRON[122813]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 21:17:01 mate CRON[122813]: pam_unix(cron:session): session closed for user root
+Apr  3 21:30:01 mate CRON[122834]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 21:30:01 mate CRON[122834]: pam_unix(cron:session): session closed for user root
+Apr  3 22:17:01 mate CRON[122941]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 22:17:01 mate CRON[122941]: pam_unix(cron:session): session closed for user root
+Apr  3 22:30:01 mate CRON[122966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 22:30:01 mate CRON[122966]: pam_unix(cron:session): session closed for user root
+Apr  3 23:17:01 mate CRON[123072]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 23:17:01 mate CRON[123072]: pam_unix(cron:session): session closed for user root
+Apr  3 23:30:01 mate CRON[123098]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 23:30:01 mate CRON[123098]: pam_unix(cron:session): session closed for user root
+Apr  4 00:17:01 mate CRON[123229]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 00:17:01 mate CRON[123229]: pam_unix(cron:session): session closed for user root
+Apr  4 01:17:01 mate CRON[123360]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 01:17:01 mate CRON[123360]: pam_unix(cron:session): session closed for user root
+Apr  4 01:45:01 mate CRON[123424]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 01:45:01 mate CRON[123424]: pam_unix(cron:session): session closed for user root
+Apr  4 02:17:01 mate CRON[123496]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 02:17:01 mate CRON[123496]: pam_unix(cron:session): session closed for user root
+Apr  4 03:10:01 mate CRON[123604]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 03:10:01 mate CRON[123604]: pam_unix(cron:session): session closed for user root
+Apr  4 03:17:01 mate CRON[123622]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 03:17:01 mate CRON[123622]: pam_unix(cron:session): session closed for user root
+Apr  4 04:17:01 mate CRON[123745]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 04:17:01 mate CRON[123745]: pam_unix(cron:session): session closed for user root
+Apr  4 05:17:01 mate CRON[123858]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 05:17:01 mate CRON[123858]: pam_unix(cron:session): session closed for user root
+Apr  4 06:17:01 mate CRON[123985]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 06:17:01 mate CRON[123985]: pam_unix(cron:session): session closed for user root
+Apr  4 06:25:01 mate CRON[124003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 06:25:01 mate CRON[124003]: pam_unix(cron:session): session closed for user root
+Apr  4 06:45:37 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  4 06:45:37 mate pkexec[124552]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  4 07:17:01 mate CRON[124631]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 07:17:01 mate CRON[124631]: pam_unix(cron:session): session closed for user root
+Apr  4 07:30:01 mate CRON[124658]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 07:30:01 mate CRON[124658]: pam_unix(cron:session): session closed for user root
+Apr  4 08:17:01 mate CRON[124793]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 08:17:01 mate CRON[124793]: pam_unix(cron:session): session closed for user root
+Apr  4 08:30:01 mate CRON[124825]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 08:30:01 mate CRON[124825]: pam_unix(cron:session): session closed for user root
+Apr  4 09:17:01 mate CRON[124924]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 09:17:01 mate CRON[124924]: pam_unix(cron:session): session closed for user root
+Apr  4 09:30:01 mate CRON[124950]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 09:30:01 mate CRON[124950]: pam_unix(cron:session): session closed for user root
+Apr  4 10:17:01 mate CRON[125046]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 10:17:01 mate CRON[125046]: pam_unix(cron:session): session closed for user root
+Apr  4 10:30:01 mate CRON[125071]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 10:30:01 mate CRON[125071]: pam_unix(cron:session): session closed for user root
+Apr  4 11:17:01 mate CRON[125173]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 11:17:01 mate CRON[125173]: pam_unix(cron:session): session closed for user root
+Apr  4 11:30:01 mate CRON[125196]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 11:30:01 mate CRON[125196]: pam_unix(cron:session): session closed for user root
+Apr  4 12:17:01 mate CRON[125305]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 12:17:01 mate CRON[125305]: pam_unix(cron:session): session closed for user root
+Apr  4 12:30:01 mate CRON[125330]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 12:30:01 mate CRON[125330]: pam_unix(cron:session): session closed for user root
+Apr  4 13:17:01 mate CRON[125434]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 13:17:01 mate CRON[125434]: pam_unix(cron:session): session closed for user root
+Apr  4 13:30:01 mate CRON[125455]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 13:30:01 mate CRON[125455]: pam_unix(cron:session): session closed for user root
+Apr  4 14:17:01 mate CRON[125557]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 14:17:01 mate CRON[125557]: pam_unix(cron:session): session closed for user root
+Apr  4 14:30:01 mate CRON[125583]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 14:30:01 mate CRON[125583]: pam_unix(cron:session): session closed for user root
+Apr  4 15:17:01 mate CRON[125716]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 15:17:01 mate CRON[125716]: pam_unix(cron:session): session closed for user root
+Apr  4 15:30:01 mate CRON[125737]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 15:30:01 mate CRON[125737]: pam_unix(cron:session): session closed for user root
+Apr  4 16:17:01 mate CRON[125827]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 16:17:01 mate CRON[125827]: pam_unix(cron:session): session closed for user root
+Apr  4 16:30:02 mate CRON[125854]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 16:30:02 mate CRON[125854]: pam_unix(cron:session): session closed for user root
+Apr  4 17:17:01 mate CRON[125947]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 17:17:01 mate CRON[125947]: pam_unix(cron:session): session closed for user root
+Apr  4 17:30:01 mate CRON[125973]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 17:30:01 mate CRON[125973]: pam_unix(cron:session): session closed for user root
+Apr  4 18:17:01 mate CRON[126107]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 18:17:01 mate CRON[126107]: pam_unix(cron:session): session closed for user root
+Apr  4 18:30:01 mate CRON[126128]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 18:30:01 mate CRON[126128]: pam_unix(cron:session): session closed for user root
+Apr  4 19:17:01 mate CRON[126230]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 19:17:01 mate CRON[126230]: pam_unix(cron:session): session closed for user root
+Apr  4 19:30:01 mate CRON[126255]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 19:30:01 mate CRON[126255]: pam_unix(cron:session): session closed for user root
+Apr  4 20:17:01 mate CRON[126356]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 20:17:01 mate CRON[126356]: pam_unix(cron:session): session closed for user root
+Apr  4 20:30:01 mate CRON[126377]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 20:30:01 mate CRON[126377]: pam_unix(cron:session): session closed for user root
+Apr  4 21:17:01 mate CRON[126475]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 21:17:01 mate CRON[126475]: pam_unix(cron:session): session closed for user root
+Apr  4 21:30:01 mate CRON[126508]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 21:30:01 mate CRON[126508]: pam_unix(cron:session): session closed for user root
+Apr  4 22:17:01 mate CRON[126621]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 22:17:01 mate CRON[126621]: pam_unix(cron:session): session closed for user root
+Apr  4 22:30:01 mate CRON[126639]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 22:30:01 mate CRON[126639]: pam_unix(cron:session): session closed for user root
+Apr  4 23:17:01 mate CRON[126734]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 23:17:01 mate CRON[126734]: pam_unix(cron:session): session closed for user root
+Apr  4 23:30:01 mate CRON[126762]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 23:30:01 mate CRON[126762]: pam_unix(cron:session): session closed for user root
+Apr  5 00:17:01 mate CRON[126890]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 00:17:01 mate CRON[126890]: pam_unix(cron:session): session closed for user root
+Apr  5 01:17:01 mate CRON[127010]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 01:17:01 mate CRON[127010]: pam_unix(cron:session): session closed for user root
+Apr  5 01:33:36 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  5 01:33:36 mate pkexec[127754]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  5 01:45:01 mate CRON[127777]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 01:45:01 mate CRON[127777]: pam_unix(cron:session): session closed for user root
+Apr  5 02:17:01 mate CRON[127847]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 02:17:01 mate CRON[127847]: pam_unix(cron:session): session closed for user root
+Apr  5 03:10:01 mate CRON[127984]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 03:10:01 mate CRON[127984]: pam_unix(cron:session): session closed for user root
+Apr  5 03:17:01 mate CRON[128005]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 03:17:01 mate CRON[128005]: pam_unix(cron:session): session closed for user root
+Apr  5 04:17:01 mate CRON[128132]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 04:17:01 mate CRON[128132]: pam_unix(cron:session): session closed for user root
+Apr  5 05:17:01 mate CRON[128243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 05:17:01 mate CRON[128243]: pam_unix(cron:session): session closed for user root
+Apr  5 06:17:01 mate CRON[128444]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 06:17:01 mate CRON[128444]: pam_unix(cron:session): session closed for user root
+Apr  5 06:25:01 mate CRON[128460]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 06:25:01 mate CRON[128460]: pam_unix(cron:session): session closed for user root
+Apr  5 07:17:01 mate CRON[128564]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 07:17:01 mate CRON[128564]: pam_unix(cron:session): session closed for user root
+Apr  5 07:30:01 mate CRON[128594]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 07:30:01 mate CRON[128594]: pam_unix(cron:session): session closed for user root
+Apr  5 08:17:01 mate CRON[128712]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 08:17:01 mate CRON[128712]: pam_unix(cron:session): session closed for user root
+Apr  5 08:30:01 mate CRON[128734]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 08:30:01 mate CRON[128734]: pam_unix(cron:session): session closed for user root
+Apr  5 09:17:01 mate CRON[128826]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 09:17:01 mate CRON[128826]: pam_unix(cron:session): session closed for user root
+Apr  5 09:30:01 mate CRON[128854]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 09:30:01 mate CRON[128854]: pam_unix(cron:session): session closed for user root
+Apr  5 10:17:01 mate CRON[128958]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 10:17:01 mate CRON[128958]: pam_unix(cron:session): session closed for user root
+Apr  5 10:30:01 mate CRON[128979]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 10:30:01 mate CRON[128979]: pam_unix(cron:session): session closed for user root
+Apr  5 11:17:01 mate CRON[129077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 11:17:01 mate CRON[129077]: pam_unix(cron:session): session closed for user root
+Apr  5 11:30:01 mate CRON[129102]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 11:30:01 mate CRON[129102]: pam_unix(cron:session): session closed for user root
+Apr  5 12:17:01 mate CRON[129260]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 12:17:01 mate CRON[129260]: pam_unix(cron:session): session closed for user root
+Apr  5 12:30:01 mate CRON[129278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 12:30:01 mate CRON[129278]: pam_unix(cron:session): session closed for user root
+Apr  5 13:17:01 mate CRON[129373]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 13:17:01 mate CRON[129373]: pam_unix(cron:session): session closed for user root
+Apr  5 13:30:01 mate CRON[129399]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 13:30:01 mate CRON[129399]: pam_unix(cron:session): session closed for user root
+Apr  5 14:17:01 mate CRON[129532]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 14:17:01 mate CRON[129532]: pam_unix(cron:session): session closed for user root
+Apr  5 14:30:01 mate CRON[129554]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 14:30:01 mate CRON[129554]: pam_unix(cron:session): session closed for user root
+Apr  5 15:17:01 mate CRON[129656]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 15:17:01 mate CRON[129656]: pam_unix(cron:session): session closed for user root
+Apr  5 15:30:01 mate CRON[129675]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 15:30:01 mate CRON[129675]: pam_unix(cron:session): session closed for user root
+Apr  5 16:17:01 mate CRON[129783]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 16:17:01 mate CRON[129783]: pam_unix(cron:session): session closed for user root
+Apr  5 16:30:01 mate CRON[129808]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 16:30:01 mate CRON[129808]: pam_unix(cron:session): session closed for user root
+Apr  5 17:17:01 mate CRON[129904]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 17:17:01 mate CRON[129904]: pam_unix(cron:session): session closed for user root
+Apr  5 17:30:01 mate CRON[129927]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 17:30:01 mate CRON[129927]: pam_unix(cron:session): session closed for user root
+Apr  5 18:17:01 mate CRON[130059]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 18:17:01 mate CRON[130059]: pam_unix(cron:session): session closed for user root
+Apr  5 18:30:01 mate CRON[130085]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 18:30:01 mate CRON[130085]: pam_unix(cron:session): session closed for user root
+Apr  5 19:17:01 mate CRON[130183]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 19:17:01 mate CRON[130183]: pam_unix(cron:session): session closed for user root
+Apr  5 19:30:01 mate CRON[130203]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 19:30:01 mate CRON[130203]: pam_unix(cron:session): session closed for user root
+Apr  5 20:17:01 mate CRON[130297]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 20:17:01 mate CRON[130297]: pam_unix(cron:session): session closed for user root
+Apr  5 20:30:01 mate CRON[130322]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 20:30:01 mate CRON[130322]: pam_unix(cron:session): session closed for user root
+Apr  5 21:17:01 mate CRON[130420]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 21:17:01 mate CRON[130420]: pam_unix(cron:session): session closed for user root
+Apr  5 21:30:01 mate CRON[130442]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 21:30:01 mate CRON[130442]: pam_unix(cron:session): session closed for user root
+Apr  5 22:17:01 mate CRON[130541]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 22:17:01 mate CRON[130541]: pam_unix(cron:session): session closed for user root
+Apr  5 22:30:01 mate CRON[130570]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 22:30:01 mate CRON[130570]: pam_unix(cron:session): session closed for user root
+Apr  5 23:17:01 mate CRON[130673]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 23:17:01 mate CRON[130673]: pam_unix(cron:session): session closed for user root
+Apr  5 23:30:01 mate CRON[130697]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  5 23:30:01 mate CRON[130697]: pam_unix(cron:session): session closed for user root
+Apr  6 00:17:01 mate CRON[130827]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 00:17:01 mate CRON[130827]: pam_unix(cron:session): session closed for user root
+Apr  6 00:30:35 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  6 00:30:35 mate pkexec[131289]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  6 01:03:29 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt update
+Apr  6 01:03:29 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:03:34 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:03:48 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt libreoffice
+Apr  6 01:03:48 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:03:48 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:03:57 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt install libreoffice
+Apr  6 01:03:57 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:06:04 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:06:36 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  6 01:06:36 mate pkexec[137549]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  6 01:08:23 mate polkitd(authority=local): Operator of unix-session:c2 successfully authenticated as unix-user:user1 to gain TEMPORARY authorization for action org.debian.apt.install-or-remove-packages for system-bus-name::1.1757 [/usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map] (owned by unix-user:user1)
+Apr  6 01:12:34 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  6 01:12:34 mate pkexec[168730]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  6 01:17:01 mate CRON[168776]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 01:17:01 mate CRON[168776]: pam_unix(cron:session): session closed for user root
+Apr  6 01:35:23 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:savoury1/vlc3
+Apr  6 01:35:23 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:35:43 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:36:33 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  6 01:36:33 mate pkexec[171973]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  6 01:37:51 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:savoury1/multimedia
+Apr  6 01:37:51 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:38:15 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:38:20 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:savoury1/graphics
+Apr  6 01:38:20 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:38:44 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:38:52 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:savoury1/ffmpeg4
+Apr  6 01:38:52 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:39:18 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:39:26 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt update
+Apr  6 01:39:26 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:39:32 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:39:42 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt upgrade
+Apr  6 01:39:42 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:39:47 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  6 01:39:47 mate pkexec[174678]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  6 01:45:01 mate CRON[177814]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 01:45:01 mate CRON[177814]: pam_unix(cron:session): session closed for user root
+Apr  6 01:46:42 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:48:22 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt install vlc
+Apr  6 01:48:22 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:48:35 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  6 01:48:35 mate pkexec[180532]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  6 01:49:28 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:51:32 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  6 01:51:32 mate pkexec[181861]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  6 01:53:01 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/etc/init.d/networking stop
+Apr  6 01:53:01 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:53:01 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:53:21 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/etc/init.d/networking start
+Apr  6 01:53:21 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:53:21 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:54:26 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/sbin/adduser user2
+Apr  6 01:54:26 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:54:26 mate groupadd[183412]: group added to /etc/group: name=user2, GID=1001
+Apr  6 01:54:26 mate groupadd[183412]: group added to /etc/gshadow: name=user2
+Apr  6 01:54:26 mate groupadd[183412]: new group: name=user2, GID=1001
+Apr  6 01:54:26 mate useradd[183418]: new user: name=user2, UID=1001, GID=1001, home=/home/user2, shell=/bin/bash, from=/dev/pts/0
+Apr  6 01:54:33 mate passwd[183434]: pam_unix(passwd:chauthtok): password changed for user2
+Apr  6 01:54:33 mate passwd[183434]: gkr-pam: couldn't update the login keyring password: no old password was entered
+Apr  6 01:54:34 mate chfn[183470]: changed user 'user2' information
+Apr  6 01:54:34 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:54:58 mate polkit-agent-helper-1[183755]: pam_unix(polkit-1:auth): authentication failure; logname= uid=1000 euid=0 tty= ruser=user1 rhost=  user=user1
+Apr  6 01:55:04 mate polkitd(authority=local): Operator of unix-session:c2 successfully authenticated as unix-user:user1 to gain TEMPORARY authorization for action org.freedesktop.systemtoolsbackends.set for system-bus-name::1.2208 [users-admin] (owned by unix-user:user1)
+Apr  6 01:55:10 mate groupadd[183814]: group added to /etc/group: name=user3, GID=1002
+Apr  6 01:55:10 mate groupadd[183814]: group added to /etc/gshadow: name=user3
+Apr  6 01:55:10 mate groupadd[183814]: new group: name=user3, GID=1002
+Apr  6 01:55:10 mate useradd[183820]: new user: name=user3, UID=1002, GID=1002, home=/home/user3, shell=/bin/bash, from=none
+Apr  6 01:55:10 mate usermod[183832]: change user 'user3' password
+Apr  6 01:55:10 mate chfn[183839]: changed user 'user3' information
+Apr  6 01:55:11 mate passwd[183854]: password for 'user3' changed by 'root'
+Apr  6 01:55:11 mate passwd[183862]: password for 'user3' changed by 'root'
+Apr  6 01:55:23 mate chpasswd[184076]: pam_unix(chpasswd:chauthtok): password changed for user3
+Apr  6 01:55:23 mate chpasswd[184076]: gkr-pam: couldn't update the login keyring password: no old password was entered
+Apr  6 01:55:23 mate passwd[184080]: password for 'user3' changed by 'root'
+Apr  6 01:57:52 mate sudo:    user1 : TTY=pts/1 ; PWD=/home/user1/Documents ; USER=root ; COMMAND=/usr/bin/chmod a+x file.sh
+Apr  6 01:57:52 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:57:52 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:58:44 mate sudo:    user1 : TTY=pts/1 ; PWD=/home/user1/Documents ; USER=root ; COMMAND=/usr/bin/chmod o-x private
+Apr  6 01:58:44 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:58:44 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 01:58:53 mate sudo:    user1 : TTY=pts/1 ; PWD=/home/user1/Documents ; USER=root ; COMMAND=/usr/bin/chmod o-x Private/
+Apr  6 01:58:53 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 01:58:53 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:14:18 mate lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "user2"
+Apr  6 02:14:18 mate lightdm: pam_unix(lightdm:auth): conversation failed
+Apr  6 02:14:18 mate lightdm: pam_unix(lightdm:auth): auth could not identify password for [user2]
+Apr  6 02:14:18 mate lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Apr  6 02:14:18 mate systemd-logind[712]: New session c3 of user lightdm.
+Apr  6 02:14:18 mate systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Apr  6 02:14:19 mate lightdm: gkr-pam: gnome-keyring-daemon started properly
+Apr  6 02:14:20 mate lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "user2"
+Apr  6 02:14:25 mate lightdm: pam_unix(lightdm:auth): authentication failure; logname= uid=0 euid=0 tty=:1 ruser= rhost=  user=user2
+Apr  6 02:14:27 mate lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "user2"
+Apr  6 02:14:31 mate lightdm: gkr-pam: unable to locate daemon control file
+Apr  6 02:14:31 mate lightdm: gkr-pam: stashed password to try later in open session
+Apr  6 02:14:32 mate lightdm: pam_unix(lightdm:session): session opened for user user2 by (uid=0)
+Apr  6 02:14:32 mate systemd-logind[712]: New session c4 of user user2.
+Apr  6 02:14:32 mate systemd: pam_unix(systemd-user:session): session opened for user user2 by (uid=0)
+Apr  6 02:14:32 mate lightdm: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr  6 02:14:32 mate systemd-logind[712]: Removed session c3.
+Apr  6 02:14:36 mate gnome-keyring-daemon[184316]: The SSH agent was already initialized
+Apr  6 02:14:36 mate gnome-keyring-daemon[184316]: The PKCS#11 component was already initialized
+Apr  6 02:14:36 mate gnome-keyring-daemon[184316]: The Secret Service was already initialized
+Apr  6 02:14:37 mate polkitd(authority=local): Registered Authentication Agent for unix-session:c4 (system bus name :1.2254 [/usr/lib/x86_64-linux-gnu/polkit-mate/polkit-mate-authentication-agent-1], object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr  6 02:14:42 mate systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Apr  6 02:14:44 mate dbus-daemon[686]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr  6 02:17:01 mate CRON[185222]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 02:17:01 mate CRON[185222]: pam_unix(cron:session): session closed for user root
+Apr  6 02:17:44 mate polkitd(authority=local): Operator of unix-session:c4 successfully authenticated as unix-user:user1 to gain TEMPORARY authorization for action org.freedesktop.systemtoolsbackends.set for system-bus-name::1.2262 [users-admin] (owned by unix-user:user2)
+Apr  6 02:21:51 mate sudo:    user2 : user NOT in sudoers ; TTY=pts/2 ; PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/passwd
+Apr  6 02:22:26 mate lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "user1"
+Apr  6 02:22:26 mate lightdm: pam_unix(lightdm:auth): conversation failed
+Apr  6 02:22:26 mate lightdm: pam_unix(lightdm:auth): auth could not identify password for [user1]
+Apr  6 02:22:27 mate lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Apr  6 02:22:27 mate systemd-logind[712]: New session c5 of user lightdm.
+Apr  6 02:22:27 mate systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Apr  6 02:22:27 mate lightdm: gkr-pam: gnome-keyring-daemon started properly
+Apr  6 02:22:28 mate lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "user1"
+Apr  6 02:22:33 mate lightdm: gkr-pam: unable to locate daemon control file
+Apr  6 02:22:33 mate lightdm: gkr-pam: stashed password to try later in open session
+Apr  6 02:22:34 mate systemd-logind[712]: Removed session c5.
+Apr  6 02:22:53 mate dbus-daemon[686]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr  6 02:22:53 mate mate-screensaver-dialog: gkr-pam: unlocked login keyring
+Apr  6 02:23:24 mate sudo:    user1 : TTY=pts/1 ; PWD=/home/user1/Documents ; USER=root ; COMMAND=/usr/bin/passwd user2
+Apr  6 02:23:24 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:23:39 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:23:46 mate sudo:    user1 : TTY=pts/1 ; PWD=/home/user1/Documents ; USER=root ; COMMAND=/usr/bin/passwd user2
+Apr  6 02:23:46 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:23:55 mate passwd[186197]: pam_unix(passwd:chauthtok): password changed for user2
+Apr  6 02:23:55 mate passwd[186197]: gkr-pam: couldn't update the login keyring password: no old password was entered
+Apr  6 02:23:55 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:32:05 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt update
+Apr  6 02:32:05 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:32:15 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:32:15 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt upgrade -y
+Apr  6 02:32:15 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:32:22 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:32:45 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt install apt-transport-https curl build-essential libgnome-keyring-dev python-setuptools npm
+Apr  6 02:32:45 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:32:45 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:33:03 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt install apt-transport-https curl
+Apr  6 02:33:03 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:33:13 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:33:23 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+Apr  6 02:33:23 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:33:23 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:33:32 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  6 02:33:32 mate pkexec[189626]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  6 02:33:36 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/tee /etc/apt/sources.list.d/brave-browser-release.list
+Apr  6 02:33:36 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:33:36 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:33:47 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt update
+Apr  6 02:33:47 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:33:52 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:33:59 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt install brave-browser
+Apr  6 02:33:59 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:34:27 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:35:17 mate dbus-daemon[686]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr  6 02:36:10 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt update
+Apr  6 02:36:10 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:36:15 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:36:24 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt-key add -
+Apr  6 02:36:24 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:36:26 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:36:34 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  6 02:36:34 mate pkexec[193397]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  6 02:37:36 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/tee /etc/apt/sources.list.d/google-chrome.list
+Apr  6 02:37:36 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:37:36 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:38:12 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt update
+Apr  6 02:38:12 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:38:18 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:39:12 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt install -y google-chrome-stable
+Apr  6 02:39:12 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:39:36 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:39:37 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  6 02:39:37 mate pkexec[195285]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  6 02:40:36 mate gnome-keyring-daemon[13790]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr  6 02:40:58 mate sudo:    user1 : TTY=pts/0 ; PWD=/home/user1/Desktop ; USER=root ; COMMAND=/usr/bin/apt remove -y google-chrome-stable
+Apr  6 02:40:58 mate sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  6 02:41:01 mate dbus-daemon[686]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr  6 02:41:08 mate sudo: pam_unix(sudo:session): session closed for user root
+Apr  6 02:42:33 mate pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Apr  6 02:42:33 mate pkexec[197706]: user1: Executing command [USER=root] [TTY=unknown] [CWD=/home/user1] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr  6 03:10:01 mate CRON[199577]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 03:10:01 mate CRON[199577]: pam_unix(cron:session): session closed for user root
+Apr  6 03:17:01 mate CRON[199988]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 03:17:01 mate CRON[199988]: pam_unix(cron:session): session closed for user root
+Apr  6 04:17:01 mate CRON[203561]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 04:17:01 mate CRON[203561]: pam_unix(cron:session): session closed for user root
+Apr  6 05:17:01 mate CRON[206760]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 05:17:01 mate CRON[206760]: pam_unix(cron:session): session closed for user root
+Apr  6 06:17:01 mate CRON[209262]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 06:17:01 mate CRON[209262]: pam_unix(cron:session): session closed for user root
+Apr  6 06:25:01 mate CRON[209662]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 06:25:01 mate CRON[209662]: pam_unix(cron:session): session closed for user root
+Apr  6 07:17:01 mate CRON[211883]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 07:17:01 mate CRON[211883]: pam_unix(cron:session): session closed for user root
+Apr  6 07:30:01 mate CRON[212323]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 07:30:01 mate CRON[212323]: pam_unix(cron:session): session closed for user root
+Apr  6 08:17:01 mate CRON[214414]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 08:17:01 mate CRON[214414]: pam_unix(cron:session): session closed for user root
+Apr  6 08:30:01 mate CRON[214983]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 08:30:01 mate CRON[214983]: pam_unix(cron:session): session closed for user root
+Apr  6 09:17:01 mate CRON[216677]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 09:17:01 mate CRON[216677]: pam_unix(cron:session): session closed for user root
+Apr  6 09:30:01 mate CRON[217109]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 09:30:01 mate CRON[217109]: pam_unix(cron:session): session closed for user root
+Apr  6 10:17:01 mate CRON[218350]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 10:17:01 mate CRON[218350]: pam_unix(cron:session): session closed for user root
+Apr  6 10:30:01 mate CRON[218667]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 10:30:01 mate CRON[218667]: pam_unix(cron:session): session closed for user root
+Apr  6 11:17:01 mate CRON[219653]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 11:17:01 mate CRON[219653]: pam_unix(cron:session): session closed for user root
+Apr  6 11:30:02 mate CRON[219775]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 11:30:02 mate CRON[219775]: pam_unix(cron:session): session closed for user root
+Apr  6 12:17:01 mate CRON[220452]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 12:17:01 mate CRON[220452]: pam_unix(cron:session): session closed for user root
+Apr  6 12:30:01 mate CRON[220621]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  6 12:30:01 mate CRON[220621]: pam_unix(cron:session): session closed for user root
+Apr  6 13:03:22 mate mate-screensaver-dialog: gkr-pam: unlocked login keyring
+Apr  6 13:04:55 mate lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "user2"
+Apr  6 13:04:55 mate lightdm: pam_unix(lightdm:auth): conversation failed
+Apr  6 13:04:55 mate lightdm: pam_unix(lightdm:auth): auth could not identify password for [user2]
+Apr  6 13:04:56 mate lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Apr  6 13:04:56 mate systemd-logind[712]: New session c6 of user lightdm.
+Apr  6 13:04:56 mate systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Apr  6 13:04:57 mate lightdm: gkr-pam: gnome-keyring-daemon started properly
+Apr  6 13:04:58 mate lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "user2"
+Apr  6 13:05:03 mate lightdm: pam_unix(lightdm:auth): authentication failure; logname= uid=0 euid=0 tty=:2 ruser= rhost=  user=user2
+Apr  6 13:05:05 mate lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "user2"
+Apr  6 13:05:08 mate lightdm: gkr-pam: unable to locate daemon control file
+Apr  6 13:05:08 mate lightdm: gkr-pam: stashed password to try later in open session
+Apr  6 13:05:09 mate systemd-logind[712]: Removed session c6.
+Apr  6 13:05:19 mate lightdm: pam_unix(lightdm:session): session closed for user user2
+Apr  6 13:05:19 mate systemd-logind[712]: System is powering down.
+Apr  6 13:05:19 mate systemd-logind[712]: Session c4 logged out. Waiting for processes to exit.
